@@ -4,15 +4,15 @@ date: 2023-10-12T09:00:00+00:00
 draft: false
 ---
 
-# Welcome to Anycode Science Club!
+# Welcome to AnyCode Science Club!
 
 Greetings, fellow science enthusiasts! 🚀🔬
 
-We are excited to welcome you to "Anycode," the hub for all things science, discovery, and exploration. Whether you're a seasoned scientist, a coding aficionado, or just someone who's curious about the wonders of the universe, you've found the right place.
+We are excited to welcome you to "AnyCode", the hub for all things science, discovery, and exploration. Whether you're a seasoned scientist, a coding aficionado, or just someone who's curious about the wonders of the universe, you've found the right place.
 
 ## Who Are We?
 
-Anycode is a community of passionate individuals who share a common love for science, technology, engineering, and mathematics (STEM). We are a club that believes in the power of knowledge and innovation to shape the world. Our mission is to explore, learn, and inspire.
+AnyCode is a community of passionate individuals who share a common love for science, technology, engineering, and mathematics (STEM). We are a club that believes in the power of knowledge and innovation to shape the world. Our mission is to explore, learn, and inspire.
 
 ## What to Expect
 
@@ -34,6 +34,6 @@ We look forward to sharing our love for science with you. Feel free to explore o
 
 Happy coding, happy experimenting, and happy learning!
 
-![Anycode Science Club](/images/anycode-logo.png)
+![AnyCode Science Club](/images/anycode-logo.png)
 
 For inquiries, contact us at [contact@anycodeclub.com](mailto:contact@anycodeclub.com).
