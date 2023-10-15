@@ -36,6 +36,8 @@ Explore our blog and resources section, where we share articles, insights, and t
 
 We actively engage with the local community and schools, offering educational programs, science fairs, and outreach events. We believe that science should be accessible to all and seek to inspire the next generation of scientists.
 
+![Anycode members](https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/313434400_451406013775798_3771621760406749068_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TTs3C0vT8dIAX-PmYwB&_nc_ht=scontent-waw1-1.xx&oh=00_AfBY8Vf4kXcqNMbnfROVJiOrRt_k4u-FIySYvm0lMdoXtQ&oe=6531CE5F)
+
 ## Join Us
 
 Are you passionate about science, curious about the world, and eager to connect with like-minded individuals? Join us on our scientific journey! Becoming a member of AnyCode Science Club means embarking on a path of learning, discovery, and sharing. We welcome scientists, learners, educators, and enthusiasts to be part of our community.
