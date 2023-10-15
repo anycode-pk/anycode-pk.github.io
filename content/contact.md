@@ -18,6 +18,7 @@ We'd love to hear from you! Whether you have questions, suggestions, or just wan
 
 Follow us on social media for the latest updates, news, and events:
 
+- [**Discord**](https://discord.gg/gWbrffZ7Z9)
 - [**Github**](https://github.com/anycode-pk)
 - [**Facebook**](https://www.facebook.com/anycodepk)
 
