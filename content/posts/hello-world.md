@@ -28,6 +28,8 @@ AnyCode is a community of passionate individuals who share a common love for sci
 
 ## Join Us!
 
+[**Discord**](https://discord.gg/gWbrffZ7Z9)
+
 We invite you to be a part of our science club. Follow our website, join our community, and embark on an exciting journey of discovery. Science knows no bounds, and together, we'll explore the endless possibilities.
 
 Stay curious, stay inspired, and let's make science a fascinating adventure!

@@ -6,6 +6,8 @@ draft: false
 
 # About AnyCode Science Club
 
+![AnyCode Science Club](https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/386588227_644868114453284_6012704714478753123_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UXjSxYrsf98AX_iibdw&_nc_ht=scontent-waw1-1.xx&oh=00_AfD2y-rNyxgff2TttPhOQGWlLDF7ZNvBACZHPMVfEXAyXw&oe=6531ADBF)
+
 Welcome to the heart of AnyCode Science Club, where curiosity, discovery, and innovation unite! Here's a closer look at who we are, what we do, and our shared passion for science.
 
 ## Our Mission
