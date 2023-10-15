@@ -6,6 +6,8 @@ draft: false
 
 # Welcome to AnyCode Science Club!
 
+![AnyCode Science Club](https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/386588227_644868114453284_6012704714478753123_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UXjSxYrsf98AX_iibdw&_nc_ht=scontent-waw1-1.xx&oh=00_AfD2y-rNyxgff2TttPhOQGWlLDF7ZNvBACZHPMVfEXAyXw&oe=6531ADBF)
+
 Greetings, fellow science enthusiasts! 🚀🔬
 
 We are excited to welcome you to "AnyCode", the hub for all things science, discovery, and exploration. Whether you're a seasoned scientist, a coding aficionado, or just someone who's curious about the wonders of the universe, you've found the right place.
@@ -34,6 +36,4 @@ We look forward to sharing our love for science with you. Feel free to explore o
 
 Happy coding, happy experimenting, and happy learning!
 
-![AnyCode Science Club](/images/anycode-logo.png)
-
-For inquiries, contact us at [contact@anycodeclub.com](mailto:contact@anycodeclub.com).
+For inquiries, contact us at [anycodepk@gmail.com](mailto:anycodepk@gmail.com).

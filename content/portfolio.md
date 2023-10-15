@@ -8,92 +8,26 @@ draft: false
 
 Welcome to our portfolio page, where we proudly present some of the exciting projects, experiments, and achievements that highlight the diverse talents and interests of our members. We believe in the power of collaboration, exploration, and sharing our love for science. Here are some of the endeavors that define us.
 
-## Citizen Science Initiatives
+### TableBookingApp
 
-### [Project Title]
+This is a table booking app for restaurants. It allows users to book tables at their favorite restaurants and pay online. The app is built using React and Node.js.
 
-[Project Description]
+[Link to Project Details](https://github.com/anycode-pk/TableBooking)
 
-[Link to Project Details]
+### Chicken Game
 
-### [Project Title]
+This is a 2D platformer game built using Unity. The player controls a chicken and must collect coins while avoiding obstacles. The game is built using C#.
 
-[Project Description]
+[Link to Project Details](https://github.com/anycode-pk/ChickenGame)
 
-[Link to Project Details]
+### Goniec
 
-## Experiments and Discoveries
+Discord bot for our server. It allows users to run commands and more. Built using python.
 
-### [Experiment Title]
-
-[Experiment Description]
-
-[Link to Experiment Details]
-
-### [Experiment Title]
-
-[Experiment Description]
-
-[Link to Experiment Details]
-
-## Educational Programs
-
-### [Program Title]
-
-[Program Description]
-
-[Link to Program Details]
-
-### [Program Title]
-
-[Program Description]
-
-[Link to Program Details]
-
-## Community Engagement
-
-### [Outreach Event Title]
-
-[Event Description]
-
-[Link to Event Details]
-
-### [Science Fair Title]
-
-[Science Fair Description]
-
-[Link to Science Fair Details]
-
-## Publications and Articles
-
-### [Article Title]
-
-[Article Description]
-
-[Link to Article]
-
-### [Article Title]
-
-[Article Description]
-
-[Link to Article]
-
-## Collaborations
-
-### [Collaboration Title]
-
-[Collaboration Description]
-
-[Link to Collaboration Details]
-
-### [Collaboration Title]
-
-[Collaboration Description]
-
-[Link to Collaboration Details]
+[Link to Project Details](https://github.com/anycode-pk/Goniec)
 
 Our portfolio represents the commitment and dedication of our members to explore, innovate, and contribute to the world of science and technology. We are passionate about learning, sharing knowledge, and making a positive impact in our community and beyond.
 
-Thank you for exploring our portfolio. If you're interested in learning more about any of our projects, experiments, or initiatives, please don't hesitate to [contact us](link-to-contact-page). We're excited to share our journey with you and look forward to future endeavors that will continue to define the AnyCode Science Club.
+Thank you for exploring our portfolio. If you're interested in learning more about any of our projects, experiments, or initiatives, please don't hesitate to [contact us](https://anycode-pk.github.io/contact/). We're excited to share our journey with you and look forward to future endeavors that will continue to define the AnyCode Science Club.
 
 Stay curious, stay inspired, and let's keep making a difference through science!

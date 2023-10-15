@@ -10,19 +10,23 @@ The history of AnyCode Science Club is a story of curiosity, exploration, and a 
 
 ## The Foundation
 
-AnyCode Science Club was founded in [Year of Foundation] by a group of enthusiastic individuals who shared a common vision: to create a space where science enthusiasts of all backgrounds could come together to learn, collaborate, and make a difference. What started as a small gathering of like-minded individuals soon evolved into a thriving community.
+AnyCode Science Club was founded in 2008 by a group of enthusiastic individuals who shared a common vision: to create a space where science enthusiasts of all backgrounds could come together to learn, collaborate, and make a difference. What started as a small gathering of like-minded individuals soon evolved into a thriving community.
 
 ## Milestones and Achievements
 
 Over the years, AnyCode Science Club has achieved several milestones and made significant contributions to the world of science and technology. Some of our proudest achievements include:
 
-- **[Year of Milestone]:** [Description of Milestone]
+- **2017:** Hackathon of Things Poznań
 
-- **[Year of Milestone]:** [Description of Milestone]
+- **2019:** DIY robot arm project
 
-- **[Year of Milestone]:** [Description of Milestone]
+- **2020:** EU Project: Database Application for Financial Management
+Faculty of Electronics and
+IT
+Polytechnics
+Koszalińska
 
-- **[Year of Milestone]:** [Description of Milestone]
+- **2022:** Hackathon Koszalin
 
 These milestones represent the dedication, hard work, and passion of our members and the impact they've had on the scientific community.
 
