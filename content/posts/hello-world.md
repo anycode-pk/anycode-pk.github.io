@@ -1,6 +1,8 @@
 ---
 title: "Hello, World!"
-date: 2023-10-12T09:00:00+00:00
+tags: ["hello", "world"]
+author: Kacper Ochnik
+date: 2023-10-12
 draft: false
 ---
 
