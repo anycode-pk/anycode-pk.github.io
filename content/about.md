@@ -6,7 +6,7 @@ draft: false
 
 # About AnyCode Science Club
 
-![AnyCode Science Club](https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/386588227_644868114453284_6012704714478753123_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UXjSxYrsf98AX_iibdw&_nc_ht=scontent-waw1-1.xx&oh=00_AfD2y-rNyxgff2TttPhOQGWlLDF7ZNvBACZHPMVfEXAyXw&oe=6531ADBF)
+![AnyCode Science Club](/anycode-logo.png)
 
 Welcome to the heart of AnyCode Science Club, where curiosity, discovery, and innovation unite! Here's a closer look at who we are, what we do, and our shared passion for science.
 
@@ -18,25 +18,25 @@ At AnyCode Science Club, our mission is simple yet profound: to foster a love fo
 
 Our club is home to a diverse and inclusive community of science enthusiasts, ranging from students and educators to professionals and hobbyists. What unites us is a deep appreciation for the wonders of the universe and a desire to share our knowledge and passion with others.
 
-## What We Do
+![Anycode members](/ludzie1.jpg)
 
-### Events and Workshops
+## What We Do:
 
-We organize a wide range of events and workshops designed to fuel your scientific curiosity. From hands-on experiments to insightful lectures, there's always something exciting happening at AnyCode Science Club.
+- ### Events and Workshops
 
-### Collaborative Projects
+    We organize a wide range of events and workshops designed to fuel your scientific curiosity. From hands-on experiments to insightful lectures, there's always something exciting happening at AnyCode Science Club.
 
-Our members collaborate on various scientific projects, fostering a culture of innovation and exploration. Whether it's a citizen science initiative or a DIY experiment, you can be part of groundbreaking discoveries.
+- ### Collaborative Projects
 
-### Blog and Resources
+    Our members collaborate on various scientific projects, fostering a culture of innovation and exploration. Whether it's a citizen science initiative or a DIY experiment, you can be part of groundbreaking discoveries.
 
-Explore our blog and resources section, where we share articles, insights, and the latest scientific news. Learn from our members, stay informed about the latest advancements, and spark discussions on intriguing topics.
+- ### Blog and Resources
 
-### Community Engagement
+    Explore our blog and resources section, where we share articles, insights, and the latest scientific news. Learn from our members, stay informed about the latest advancements, and spark discussions on intriguing topics.
 
-We actively engage with the local community and schools, offering educational programs, science fairs, and outreach events. We believe that science should be accessible to all and seek to inspire the next generation of scientists.
+- ### Community Engagement
 
-![Anycode members](https://scontent-waw1-1.xx.fbcdn.net/v/t39.30808-6/313434400_451406013775798_3771621760406749068_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TTs3C0vT8dIAX-PmYwB&_nc_ht=scontent-waw1-1.xx&oh=00_AfBY8Vf4kXcqNMbnfROVJiOrRt_k4u-FIySYvm0lMdoXtQ&oe=6531CE5F)
+    We actively engage with the local community and schools, offering educational programs, science fairs, and outreach events. We believe that science should be accessible to all and seek to inspire the next generation of scientists.
 
 ## Join Us
 
