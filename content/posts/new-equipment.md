@@ -1,8 +1,7 @@
 ---
 title: "Our partners"
 author: Paweł Frankowski
-tags: ["Arduino", "Equipment", "Embedded", "IoT", "Hardware"]tags:
-
+tags: ["Arduino", "Equipment", "Embedded", "IoT", "Hardware"]
 date: 2023-12-08
 draft: false
 ---
