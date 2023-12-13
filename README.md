@@ -7,3 +7,7 @@ AnyCode's Website
 3. Add .md file to content/posts
 4. Push changes to 'main'
 5. After a while changes should be on our page!
+
+
+### Usefull links
+- https://github.com/panr/hugo-theme-terminal
