@@ -2,7 +2,7 @@
 title: "Our partners"
 author: Paweł Frankowski
 tags: ["Arduino", "Equipment", "Embedded", "IoT", "Hardware"]
-date: 2023-12-08
+date: 2023-12-13
 draft: false
 ---
 
@@ -22,6 +22,6 @@ If you're passionate about coding, hardware, or just curious about what we do, w
 
 Stay tuned for upcoming workshops and projects that will make the most out of our shiny new toys. Let's continue pushing the boundaries of technology together!
 
-![New Equipment](/equipment.jpg)
+![New Equipment](/arduino.jpg)
 
 Happy coding!
