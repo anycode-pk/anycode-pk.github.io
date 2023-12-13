@@ -1,5 +1,5 @@
 ---
-title: "Our partners"
+title: "New equipment!"
 author: Paweł Frankowski
 tags: ["Arduino", "Equipment", "Embedded", "IoT", "Hardware"]
 date: 2023-12-13
